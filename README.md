@@ -1,2 +1,1 @@
-# devops-aparna
-shell script
+# DevOps Practice
